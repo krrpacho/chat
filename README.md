@@ -19,4 +19,4 @@ A simple and interactive chat web application where anyone can:
 - **Edit Messages**: Modify previously posted messages.
 - **Delete Messages**: Remove any posted message.
 
-# Contributions are welcomed
+Contributions are welcomed
