@@ -22,4 +22,16 @@ A simple and interactive chat web application where anyone can:
 - **Delete Messages**: Remove any posted message.
 
 
-#### Contributions are welcomed
+## Contributing
+
+Contributions to this project are welcome! If you'd like to contribute, please follow these guidelines:
+- **Fork the repository** and create a pull request with your changes.
+- **Submit issues** for any bugs or feature requests.
+  
+## To Run;
+
+### `cd my-app`
+### `npm start`
+
+
+#### The backend: https://github.com/krrpacho/chatback
