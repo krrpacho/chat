@@ -3,7 +3,7 @@ import axios from 'axios';
 import { FaEdit, FaTrash } from 'react-icons/fa'; 
 import './App.css';
 
-const BACKEND_URL = 'https://chatback-9le4.onrender.com';
+const BACKEND_URL = 'https://chatback-wt79.onrender.com';
 
 const App = () => {
   const [messages, setMessages] = useState([]);
